@@ -8,6 +8,20 @@ Staging Area
 
 Commits
 
+Git Object
+
+Blob
+
+Tree
+
+Commit Object
+
+SHA Hash
+
+HEAD
+
+Branch Pointer
+
 Branches
 
 Merge
@@ -29,3 +43,4 @@ GitHub Workflow
 Common Errors
 
 Useful Commands
+

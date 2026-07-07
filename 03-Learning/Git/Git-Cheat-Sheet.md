@@ -44,3 +44,14 @@ Common Errors
 
 Useful Commands
 
+Day-06
+Git Restore
+Git Reset
+Soft Reset
+Mixed Reset
+Hard Reset
+Git Revert
+Reset vs Restore
+Reset vs Revert
+When to use each
+
